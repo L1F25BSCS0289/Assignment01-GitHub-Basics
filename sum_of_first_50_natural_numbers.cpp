@@ -2,7 +2,9 @@
  * Program    : Sum of First 50 Natural Numbers
  * Name       : Zain ul abidin
  * Reg No     : L1F25BSCS0289
- * Assignment : 01 - Getting Started with GitHub
+Assignment: Programming Fundamentals - Assignment 1
+Formula: Sum = n * (n + 1) / 2
+For n = 50: Sum = 50 * 51 / 2 = 1275
  */
 #include <iostream> 
 using namespace std;
