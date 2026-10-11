@@ -5,7 +5,7 @@
 Assignment: Programming Fundamentals - Assignment 1
 Formula: Sum = n * (n + 1) / 2
 For n = 50: Sum = 50 * 51 / 2 = 1275
- */
+ */ 
 #include <iostream> 
 using namespace std;
 int main(){ 
